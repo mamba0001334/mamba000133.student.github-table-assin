@@ -11,7 +11,29 @@
     </head>
 </html>
 <body>
-<style>
-    table, tr, td {
-        border: 1px soild black
-</style>
+<table>
+   <caption>democrates and republican state table</caption>
+   <tr>
+      <th>Parties</th>
+      <th>Texas</th>
+      <th>Colarado</th>
+      <th>Overall</th>
+   <tr>
+      <td>Democrates</td>
+      <td>row 1, column1</td>
+      <td>row 2, column2</td>
+      <td>row 3, column3</td>
+   </tr>
+   <tr>
+      <td>Republican</td>
+      <td>row 2, column1</td>
+      <td>row 2, column2</td>
+      <td>row 2, column3</td>
+   </tr>
+   <tr>
+      <td>Other</td>
+      <td>row 3, column1</td>
+      <td>row 3, column2</td>
+      <td>row 3, column3</td>
+   </tr>
+</table>
