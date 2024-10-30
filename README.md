@@ -10,7 +10,11 @@
         <meta name ="desciption" content="table comparing how many democrates and republicans are in certain states">
     </head>
 </html>
-<body>
+<body> 
+   <ul>
+      <li></li>
+   </ul>
+   </body>
 <table>
    <caption>democrates and republican state table</caption>
    <tr>
