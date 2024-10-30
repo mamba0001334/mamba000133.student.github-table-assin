@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html lang="en-us">
-    <head>
-        <h1>Elephant Photes</h1>
-        <h3>Creative Commons License Photo  </h3>
+   <head>
+       <h1> comparing demoocrates and republicans in  states</h1>
+        <h3>domcrate and republican table </h3>
         <meta charset="UTF-8">
         <meta name ="viewport" content="width = device-width,initial-scale=1.0">
         <meta name ="author" content="Kira Zamora">
-        <meta name ="keywords" content="photos of wildlife, wildlife, elephants, elephent photos, creative license photo elephants, public domain elephant photo ">
-        <meta name ="desciption" content="differnt type of photos of elephants">
+        <meta name ="keywords" content="republicans, democrates, states republicans, states democrates, texas, mississipi,colarado">
+        <meta name ="desciption" content="table comparing how many democrates and republicans are in certain states">
     </head>
 </html>
 <body>
+<style>
+    table, tr, td {
+        border: 1px soild black
+</style>
