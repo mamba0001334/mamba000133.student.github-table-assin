@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us">
    <head>
-       <h1> comparing demoocrates and republicans in  states</h1>
-        <h3>Domcrate and Republican Table </h3>
+       <h1> Comparing Demoocrats and Republicans in States</h1>
+        <h3>Domcrat and Republican Table </h3>
         <meta charset="UTF-8">
         <meta name ="viewport" content="width = device-width,initial-scale=1.0">
         <meta name ="author" content="Kira Zamora">
-        <meta name ="keywords" content="republicans, democrates, states republicans, states democrates, texas, mississipi,colarado">
-        <meta name ="desciption" content="table comparing how many democrates and republicans are in certain states">
+        <meta name ="keywords" content="comparing democrats and republicans in ststes,republicans, democrats, states republicans, states democrats, texas, mississipi,colarado">
+        <meta name ="desciption" content="table comparing how many democrats and republicans are in certain states">
     </head>
 </html>
 <body> States that are on the table</body>
@@ -18,14 +18,14 @@
    </ul>
    </body>
 <table>
-   <caption>Democrates and Republican State Table</caption>
+   <caption>Democrats and Republican State Table</caption>
    <tr>
       <th>Parties</th>
       <th>Texas</th>
       <th>Colarado</th>
       <th>Wyoming</th>
    <tr>
-      <td>Democrates</td>
+      <td>Democrats</td>
       <td>34%</td>
       <td>52%</td>
       <td>33%</td>
